@@ -1,0 +1,110 @@
+Year;Month;Campaign_Type;Target_Audience;Channel;Response;Conversion_Rate;Total_Spending;Customer_Age;Account_Balance;Yearly_Income
+2011;Jul;SMS;Existing_Customers;Online;Yes;0.18;5500;27;4000;55000
+2011;Aug;Direct Mail;New_Customers;Offline;No;0.04;8500;29;6000;65000
+2011;Sep;Social Media;Prospects;Online;Yes;0.14;7200;33;9000;75000
+2011;Nov;SMS;New_Customers;Offline;Yes;0.09;8200;26;3000;50000
+2011;Dec;Email;Prospects;Online;No;0.05;7800;34;7000;70000
+2012;Jan;Social Media;Existing_Customers;Offline;Yes;0.2;5200;32;8000;80000
+2012;Feb;Online Ads;New_Customers;Online;No;0.08;8800;28;2000;40000
+2012;Mar;Direct Mail;Prospects;Offline;Yes;0.16;6900;36;5000;60000
+2012;May;Email;New_Customers;Offline;Yes;0.13;9200;31;7000;70000
+2012;Jun;Social Media;Prospects;Online;No;0.07;7700;38;10000;90000
+2012;Jul;Direct Mail;Existing_Customers;Online;Yes;0.19;5600;30;3000;50000
+2012;Aug;Online Ads;New_Customers;Online;No;0.06;8000;27;6000;65000
+2012;Oct;Email;Existing_Customers;Online;No;0.05;7000;33;5500;60000
+2012;Nov;Social Media;New_Customers;Online;Yes;0.08;8500;28;3000;50000
+2012;Dec;Direct Mail;Prospects;Online;No;0.04;7900;36;7000;70000
+2013;Jan;Online Ads;Existing_Customers;Online;Yes;0.16;5400;31;8000;80000
+2013;Feb;SMS;New_Customers;Online;No;0.09;8600;29;2000;40000
+2013;Mar;Email;Prospects;Online;Yes;0.18;7100;37;5000;60000
+2013;Apr;Social Media;Existing_Customers;Online;No;0.1;6000;32;4000;55000
+2013;May;Direct Mail;New_Customers;Online;Yes;0.14;9500;30;7000;70000
+2013;Jun;Online Ads;Prospects;Online;No;0.06;8000;39;10000;90000
+2013;Jul;SMS;Existing_Customers;Online;Yes;0.22;5800;28;3000;50000
+2013;Aug;Email;New_Customers;Online;No;0.08;9200;34;6000;65000
+2013;Nov;Online Ads;New_Customers;Online;Yes;0.12;8900;27;3000;50000
+2013;Dec;SMS;Prospects;Online;No;0.07;8100;36;7000;70000
+2014;Jan;Email;Existing_Customers;Online;Yes;0.17;5600;33;8000;80000
+2014;Feb;Social Media;New_Customers;Online;No;0.1;8800;29;2000;40000
+2014;Mar;Direct Mail;Prospects;Online;Yes;0.2;7300;37;5000;60000
+2014;Apr;Online Ads;Existing_Customers;Online;No;0.09;6200;32;4000;55000
+2014;Jun;Email;Prospects;Online;No;0.05;8200;39;10000;90000
+2014;Jul;Social Media;Existing_Customers;Online;Yes;0.21;6000;28;3000;50000
+2014;Aug;Direct Mail;New_Customers;Online;No;0.07;9500;34;6000;65000
+2014;Oct;SMS;Existing_Customers;Online;No;0.1;6600;30;5500;60000
+2014;Nov;Email;New_Customers;Online;Yes;0.11;9100;27;3000;50000
+2015;Jan;Direct Mail;Existing_Customers;Online;Yes;0.18;5400;33;8000;80000
+2015;Mar;SMS;Prospects;Online;Yes;0.16;7400;37;5000;60000
+2015;Apr;Email;Existing_Customers;Online;No;0.1;6100;32;4000;55000
+2015;May;Social Media;New_Customers;Online;Yes;0.12;9900;30;7000;70000
+2015;Jun;Direct Mail;Prospects;Online;No;0.07;8500;39;10000;90000
+2015;Aug;SMS;New_Customers;Online;No;0.09;9300;34;6000;65000
+2015;Sep;Email;Prospects;Online;Yes;0.15;7800;35;9000;75000
+2015;Oct;Social Media;Existing_Customers;Online;No;0.11;6800;30;5500;60000
+2015;Dec;Online Ads;Prospects;Online;No;0.08;8400;36;7000;70000
+2016;Jan;Social Media;Existing_Customers;Online;Yes;0.17;5800;33;8000;80000
+2016;Feb;Direct Mail;New_Customers;Online;No;0.08;9200;29;2000;40000
+2016;Mar;Online Ads;Prospects;Online;Yes;0.21;7100;37;5000;60000
+2016;Apr;SMS;Existing_Customers;Online;No;0.1;6000;32;4000;55000
+2016;Jul;Online Ads;Existing_Customers;Online;Yes;0.22;5800;28;3000;50000
+2016;Aug;SMS;New_Customers;Online;No;0.08;9200;34;6000;65000
+2016;Sep;Email;Prospects;Online;Yes;0.15;7600;35;9000;75000
+2016;Oct;Direct Mail;Existing_Customers;Online;No;0.11;6400;30;5500;60000
+2016;Nov;Online Ads;New_Customers;Online;Yes;0.12;8900;27;3000;50000
+2016;Dec;SMS;Prospects;Online;No;0.07;8100;36;7000;70000
+2017;Jan;Email;Existing_Customers;Online;Yes;0.16;5400;33;8000;80000
+2017;Mar;Direct Mail;Prospects;Online;Yes;0.2;7300;37;5000;60000
+2017;Apr;Online Ads;Existing_Customers;Online;No;0.09;6200;32;4000;55000
+2017;May;SMS;New_Customers;Online;Yes;0.13;9700;30;7000;70000
+2017;Jun;Email;Prospects;Online;No;0.05;8200;39;10000;90000
+2017;Jul;Social Media;Existing_Customers;Online;Yes;0.21;6000;28;3000;50000
+2017;Aug;Direct Mail;New_Customers;Online;No;0.07;9500;34;6000;65000
+2017;Oct;SMS;Existing_Customers;Online;No;0.1;6600;30;5500;60000
+2017;Nov;Email;New_Customers;Online;Yes;0.11;9100;27;3000;50000
+2017;Dec;Social Media;Prospects;Online;No;0.06;8500;36;7000;70000
+2018;Jan;Direct Mail;Existing_Customers;Online;Yes;0.18;5400;33;8000;80000
+2018;Feb;Online Ads;New_Customers;Online;No;0.08;9000;29;2000;40000
+2018;Mar;SMS;Prospects;Online;Yes;0.16;7400;37;5000;60000
+2018;Apr;Email;Existing_Customers;Online;No;0.1;6100;32;4000;55000
+2018;May;Social Media;New_Customers;Online;Yes;0.12;9900;30;7000;70000
+2018;Jun;Direct Mail;Prospects;Online;No;0.07;8500;39;10000;90000
+2018;Jul;Online Ads;Existing_Customers;Online;Yes;0.22;6200;28;3000;50000
+2018;Aug;SMS;New_Customers;Online;No;0.09;9300;34;6000;65000
+2018;Sep;Email;Prospects;Online;Yes;0.15;7800;35;9000;75000
+2018;Oct;Social Media;Existing_Customers;Online;No;0.11;6800;30;5500;60000
+2018;Nov;Direct Mail;New_Customers;Online;Yes;0.12;9100;27;3000;50000
+2018;Dec;Online Ads;Prospects;Online;No;0.08;8400;36;7000;70000
+2019;Jan;SMS;Existing_Customers;Online;Yes;0.17;5800;33;8000;80000
+2019;Feb;Direct Mail;New_Customers;Online;No;0.08;9200;29;2000;40000
+2019;Mar;Online Ads;Prospects;Online;Yes;0.21;7100;37;5000;60000
+2019;Apr;SMS;Existing_Customers;Online;No;0.1;6000;32;4000;55000
+2019;May;Email;New_Customers;Online;Yes;0.13;9500;30;7000;70000
+2019;Jun;Direct Mail;Prospects;Online;No;0.06;8000;39;10000;90000
+2019;Jul;Online Ads;Existing_Customers;Online;Yes;0.22;5800;28;3000;50000
+2019;Aug;SMS;New_Customers;Online;No;0.08;9200;34;6000;65000
+2019;Sep;Email;Prospects;Online;Yes;0.15;7600;35;9000;75000
+2019;Oct;Direct Mail;Existing_Customers;Online;No;0.11;6400;30;5500;60000
+2019;Nov;Online Ads;New_Customers;Online;Yes;0.12;8900;27;3000;50000
+2020;Jan;Email;Existing_Customers;Online;Yes;0.16;5400;33;8000;80000
+2020;Feb;Social Media;New_Customers;Online;No;0.1;8800;29;2000;40000
+2020;Mar;Direct Mail;Prospects;Online;Yes;0.2;7300;37;5000;60000
+2020;Apr;Online Ads;Existing_Customers;Online;No;0.09;6200;32;4000;55000
+2020;May;SMS;New_Customers;Online;Yes;0.13;9700;30;7000;70000
+2020;Jun;Email;Prospects;Online;No;0.05;8200;39;10000;90000
+2020;Jul;Social Media;Existing_Customers;Online;Yes;0.21;6000;28;3000;50000
+2020;Aug;Direct Mail;New_Customers;Online;No;0.07;9500;34;6000;65000
+2020;Sep;Online Ads;Prospects;Online;Yes;0.14;7900;35;9000;75000
+2020;Oct;SMS;Existing_Customers;Online;No;0.1;6600;30;5500;60000
+2020;Nov;Email;New_Customers;Online;Yes;0.11;9100;27;3000;50000
+2020;Dec;Social Media;Prospects;Online;No;0.06;8500;36;7000;70000
+2021;Jan;Direct Mail;Existing_Customers;Online;Yes;0.18;5400;33;8000;80000
+2021;Feb;Online Ads;New_Customers;Online;No;0.08;9000;29;2000;40000
+2021;Mar;SMS;Prospects;Online;Yes;0.16;7400;37;5000;60000
+2021;Apr;Email;Existing_Customers;Online;No;0.1;6100;32;4000;55000
+2021;May;Social Media;New_Customers;Online;Yes;0.12;9900;30;7000;70000
+2021;Jun;Direct Mail;Prospects;Online;No;0.07;8500;39;10000;90000
+2021;Jul;Online Ads;Existing_Customers;Online;Yes;0.22;6200;28;3000;50000
+2021;Aug;SMS;New_Customers;Online;No;0.09;9300;34;6000;65000
+2021;Sep;Email;Prospects;Online;Yes;0.15;7800;35;9000;75000
+2021;Nov;Direct Mail;New_Customers;Online;Yes;0.12;9100;27;3000;50000
+2021;Dec;Online Ads;Prospects;Online;No;0.08;8400;36;7000;70000
